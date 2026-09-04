@@ -1,0 +1,20 @@
+[project]
+name = "efficient-ai-cs6013"
+version = "0.1.0"
+description = "CS6013 Fall 2026 Efficient AI: model compression submissions and evaluation (GPQA Diamond + MMLU-Pro)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.14.0",
+    "datasets>=5.0.0",
+    "torch>=2.11.0",
+    "transformers>=5.13.0",
+]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["evaluation*"]
+exclude = ["evaluation.results*"]
