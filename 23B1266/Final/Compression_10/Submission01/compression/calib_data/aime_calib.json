@@ -1,0 +1,25 @@
+{
+  "source": "train_set:grey-cat/cs6013-sft-artifacts:runs/sft-v1/data/train_set.parquet",
+  "gptq_tokens_by_source": {
+    "aime_2022": 11514,
+    "smt_2025": 102230,
+    "e2h_hmmt_feb": 777463,
+    "e2h_hmmt_nov": 842630,
+    "aime_2023": 31933,
+    "hmmt_feb_2026": 20169,
+    "cmimc_2025": 92726,
+    "hmmt_feb_2024": 23537,
+    "brumo_2025": 88847,
+    "aime_2024": 10713,
+    "hmmt_nov_2025": 10002
+  },
+  "source_samples": 1216,
+  "source_problems": 1216,
+  "gptq_sequences": 120,
+  "gptq_tokens": 2011764,
+  "gptq_problems": 120,
+  "gptq_max_len": 31843,
+  "fisher_sequences": 256,
+  "fisher_tokens": 1041014,
+  "sha256": "b5c50d18f3de0a4968d36d6195dba771590380bed6f86c785ff1f059d7937b79"
+}

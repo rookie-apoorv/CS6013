@@ -1,0 +1,31 @@
+{
+  "files": [
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/A/aime_2022.parquet",
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/A/aime_2023.parquet",
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/A/aime_2024.parquet",
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/A/aime_2025.parquet",
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/A/aime_2026.parquet",
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/B/brumo_2025.parquet",
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/B/cmimc_2025.parquet",
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/B/hmmt_feb_2025.parquet",
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/B/hmmt_feb_2026.parquet",
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/B/hmmt_nov_2025.parquet",
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/B/smt_2025.parquet",
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/S/math500_l4.parquet",
+    "grey-cat/cs6013-qwen35-4b-base-traces:raw/S/math500_l5.parquet",
+    "grey-cat/cs6013-qwen35-4b-train-traces:raw/T/e2h_hmmt_feb.parquet",
+    "grey-cat/cs6013-qwen35-4b-train-traces:raw/T/e2h_hmmt_nov.parquet",
+    "grey-cat/cs6013-qwen35-4b-train-traces:raw/T/hmmt_feb_2024.parquet"
+  ],
+  "tokens": 75415059,
+  "distinct": 28882,
+  "vocab": 248077,
+  "force_ids": 114,
+  "tokens_for_coverage": {
+    "0.99": 5849,
+    "0.999": 14421,
+    "0.9999": 23109,
+    "0.99999": 28128
+  },
+  "sha256": "f807f00302b3ef007237ffdaa6ae9f982552a0ca9c8610e1abaf986088c831a6"
+}
